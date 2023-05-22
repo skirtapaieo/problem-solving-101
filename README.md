@@ -2,6 +2,8 @@
 
 In all the other repositories, we are trying to have a proper problem solving approach, documented in the README.MD for each repository. 
 
+This expanded problem-solving process provides a more comprehensive view, starting from why the problem is worth solving, through how to solve it, and finally, how to validate the solution.
+
 Lets have the tournament winner problem as an example. 
 
 ## Step 1 - Need identification (Why) 
@@ -40,12 +42,13 @@ Discuss and evaluate potential alternative solutions to the problem.
 
 Once a solution is chosen, a prototype or draft solution is created.
 
-6. Optimization/Finalization
+## Step 7 - Optimization/Finalization
 
 After testing and refining the initial draft, the solution is optimized and finalized.
 
-7. Validation
+## Step 8 - Validation
 
 Finally, the solution is tested with various test cases to ensure its correctness and efficiency.
 
-This expanded problem-solving process provides a more comprehensive view, starting from why the problem is worth solving, through how to solve it, and finally, how to validate the solution.
+
+
