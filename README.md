@@ -1,5 +1,23 @@
 # problem-solving-101
 
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Step 1 - Need identification (Why)](#step-1---need-identification-why)
+3. [Step 2 - Problem Definition (What)](#step-2---problem-definition-what)
+4. [Step 3 - Conceptual Understanding (When)](#step-3---conceptual-understanding-when)
+5. [Step 4 - Conceptual Solution (How)](#step-4---conceptual-solution-how)
+6. [Step 5 - Discuss Solution Alternatives (Hows)](#step-5---discuss-solution-alternatives-hows)
+7. [Step 6 - Initial Approach/Drafting](#step-6---initial-approachdrafting)
+8. [Step 7 - Optimization/Finalization](#step-7---optimizationfinalization)
+9. [Step 8 - Validation](#step-8---validation)
+10. [Step 9 - Implementation and Review](#step-9---implementation-and-review)
+11. [Step 10 - Psychological safety, culture, and business context](#step-10---psychological-safety-culture-and-business-context)
+    - [Psychological Safety](#psychological-safety)
+    - [Cultural Safety](#cultural-safety)
+    - [The Business Context](#the-business-context)
+
+## Introduction 
+
 In many situations, starting from interviews, onboarding, working in groups, and individually, with larger team constellations and so on it is very important to have a clear and understandable problem solving process, that is being followed consistently, and when side-steps are done they are done in an aware manner. 
 
 In all the other repositories, we are trying to have a proper problem solving approach, documented in the README.MD for each repository. We are not very good at documenting side-steps from it and sometimes time does not allow for it at all. 
