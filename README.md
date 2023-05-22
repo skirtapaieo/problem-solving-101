@@ -47,6 +47,8 @@ This is where you devise a conceptual or theoretical solution to the problem. It
 
 Discuss and evaluate potential alternative solutions to the problem.
 
+> **Team note:** Evaluate different solution paths. Consider technical feasibility, design aesthetics, user experience, cost, time, and other factors. This stage may involve getting feedback from different stakeholders. 
+
 ## Step 6 - Initial Approach/Drafting
 
 Once a solution is chosen, a prototype or draft solution is created.
