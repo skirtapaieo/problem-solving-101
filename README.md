@@ -88,5 +88,37 @@ assert tournamentWinner(competitions, results) == "A"
 > 
 > By involving stakeholders at each step and considering design and product aspects, you ensure the solution you develop meets the needs of the end users and aligns with the goals of your organization.
 
+## Step 10 - It is a marathon not a sprint 
+
+### Psychological safety 
+
+Psychological safety is a crucial aspect in any collaborative environment, especially in diverse teams working on complex problems. It's the shared belief that a team is safe for interpersonal risk-taking, meaning members feel comfortable expressing their thoughts, ideas, and concerns without fear of negative consequences.
+
+In the context of a multi-team environment, promoting psychological safety can have several benefits:
+
+- Fosters Open Communication: When team members feel psychologically safe, they are more likely to share their thoughts, ask questions, seek help, and discuss problems openly. This can lead to better problem-solving and decision-making.
+
+- Encourages Innovation: A psychologically safe environment encourages people to take risks and come up with innovative solutions. It allows for trial and error without fear of punishment, which can drive creativity and innovation.
+
+- Improves Learning and Growth: Psychological safety allows team members to admit mistakes and learn from them, leading to personal growth and overall team improvement.
+
+E nhances Team Collaboration: When team members feel safe and respected, they are more likely to collaborate effectively, trust each other, and work towards shared goals.
+
+To promote psychological safety in a multi-team environment, you can consider the following strategies:
+
+- Promote Respect and Fairness: Encourage team members to treat each other with respect and fairness. This includes listening attentively to others' ideas, avoiding harsh criticism, and promoting equality.
+
+- Encourage Open Communication: Create an environment where team members feel free to express their thoughts, ask questions, and share their ideas.
+
+- Normalize Mistakes: Frame mistakes as opportunities for learning, not as failures. This can encourage team members to take risks and innovate without fear of retribution.
+
+- Show Empathy and Understanding: Be understanding and empathetic to team members' challenges. Recognize that everyone can have off days and that personal circumstances can affect work performance.
+
+- Lead by Example: Leaders should model the behavior they want to see in their team. If leaders show vulnerability, admit their own mistakes, and encourage open communication, team members are more likely to do the same.
+
+Implementing these strategies can help create a psychologically safe environment where all team members feel comfortable contributing to their full potential.
+
+
+
 
 
