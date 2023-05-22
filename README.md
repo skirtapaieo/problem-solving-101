@@ -1,6 +1,8 @@
 # problem-solving-101
 
-In all the other repositories, we are trying to have a proper problem solving approach, documented in the README.MD for each repository. 
+In many situations, starting from interviews, onboarding, working in groups, and individually, with larger team constellations and so on it is very important to have a clear and understandable problem solving process, that is being followed consistently, and when side-steps are done they are done in an aware manner. 
+
+In all the other repositories, we are trying to have a proper problem solving approach, documented in the README.MD for each repository. We are not very good at documenting side-steps from it and sometimes time does not allow for it at all. 
 
 This expanded problem-solving process provides a more comprehensive view, starting from why the problem is worth solving, through how to solve it, and finally, how to validate the solution.
 
@@ -53,10 +55,15 @@ Finally, the solution is tested with various test cases to ensure its correctnes
 In the case of testing it is very good to have clear names on testing scenario for everyone to understand the intentions. 
 
 ```python 
-# Test Case 1: Basic Input
+# Test Case 1: Basic Input ...
 competitions = [["A", "B"], ["B", "C"], ["C", "A"]]
 results = [1, 1, 1]
 assert tournamentWinner(competitions, results) == "B"
+
+# Test Case 2: One Team wins all matches ... 
+competitions = [["A", "B"], ["A", "C"], ["A", "D"]]
+results = [1, 1, 1]
+assert tournamentWinner(competitions, results) == "A"
 
 ```
 
