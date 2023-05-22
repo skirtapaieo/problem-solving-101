@@ -53,6 +53,7 @@ Finally, the solution is tested with various test cases to ensure its correctnes
 In the case of testing it is very good to have clear names on testing scenario for everyone to understand the intentions. 
 
 ```python 
+# Test Case 1: Basic Input
 competitions = [["A", "B"], ["B", "C"], ["C", "A"]]
 results = [1, 1, 1]
 assert tournamentWinner(competitions, results) == "B"
