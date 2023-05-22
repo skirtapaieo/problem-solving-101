@@ -53,9 +53,13 @@ Discuss and evaluate potential alternative solutions to the problem.
 
 Once a solution is chosen, a prototype or draft solution is created.
 
+> **Team note:**  Start drafting the solution. For software problems, this would involve writing pseudocode or actual code. For design problems, this could involve creating wireframes or design mockups.
+
 ## Step 7 - Optimization/Finalization
 
 After testing and refining the initial draft, the solution is optimized and finalized.
+
+> **Team note:** Refine and optimize your solution. For a design problem, this might mean making the design more intuitive and aesthetically pleasing. For a coding problem, this might involve optimizing your code for efficiency.
 
 ## Step 8 - Validation
 
@@ -75,6 +79,8 @@ results = [1, 1, 1]
 assert tournamentWinner(competitions, results) == "A"
 
 ```
+
+> **Team note:** Test your solution to ensure it meets all requirements and performs as expected. This could involve unit testing for code, usability testing for designs, and getting final approval from stakeholders.
 
 
 
