@@ -88,7 +88,7 @@ assert tournamentWinner(competitions, results) == "A"
 > 
 > By involving stakeholders at each step and considering design and product aspects, you ensure the solution you develop meets the needs of the end users and aligns with the goals of your organization.
 
-## Step 10 - It is a marathon not a sprint 
+## Step 10 - Psychological safety, culture and business context  
 
 ### Psychological safety 
 
