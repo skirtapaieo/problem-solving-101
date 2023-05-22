@@ -82,5 +82,11 @@ assert tournamentWinner(competitions, results) == "A"
 
 > **Team note:** Test your solution to ensure it meets all requirements and performs as expected. This could involve unit testing for code, usability testing for designs, and getting final approval from stakeholders.
 
+## Step 9 - Implementation and Review 
+
+> **Team note:** Implement the solution and gather feedback. This could involve deploying the code, launching a new feature, or rolling out a new design. After implementation, review the solution with stakeholders to ensure it meets their needs and expectations. 
+> 
+> By involving stakeholders at each step and considering design and product aspects, you ensure the solution you develop meets the needs of the end users and aligns with the goals of your organization.
+
 
 
