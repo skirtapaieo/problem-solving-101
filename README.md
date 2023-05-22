@@ -19,9 +19,13 @@ For instance, in the tournament problem, the need could be "There is a requireme
 
 Here, you would articulate the specific problem you're trying to solve based on the identified need. In the tournament problem, this step would involve stating that you need to find the team with the most points, with each win granting three points.
 
+> **Team note:** Based on the needs and requirements gathered, define the problem. Make sure the problem statement aligns with the stakeholders' understanding. 
+
 ## Step 3 - Conceptual Understanding (When)
 
 It's important to understand the specific circumstances or context in which the problem exists. This could include understanding when the problem occurs, under what conditions, and any constraints that exist. In the tournament problem, the context could be "The solution should work for any number of teams and games, and should handle ties appropriately."
+
+> **Team note:** Understand the context in which the problem exists. This could involve understanding the user journey, existing system architecture, business rules, and regulations, etc. Also, consider the design or user interface (UI) elements that might affect the solution. 
 
 ## Step 4 - Conceptual Solution (How)
 
@@ -35,8 +39,9 @@ This is where you devise a conceptual or theoretical solution to the problem. It
      3. Add 3 points to the winner's score in the points dictionary.
 3. Find the team with the maximum points in the points dictionary.
 4. Return the team with the maximum points as the tournament winner.
-
 ```
+
+> **Team note:** Come up with a high-level solution. This can involve brainstorming sessions with different teams, including design and product teams. Sketch out rough UI designs or system diagrams if necessary.
 
 ## Step 5 - Discuss Solution Alternatives (Hows) 
 
