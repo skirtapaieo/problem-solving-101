@@ -13,7 +13,7 @@ Lets have the tournament winner problem as an example.
 This is the stage where you identify the need for solving a problem. You consider the impact of the problem, who it affects, and why it's worth solving. 
 For instance, in the tournament problem, the need could be "There is a requirement for a fair and efficient system to determine the winner in a series of games or competitions."
 
->  At this stage, gather requirements from stakeholders. These could be product managers, customers, business analysts, or other relevant parties. Understand why the problem is important to them, what their needs are, and how solving the problem would add value. This stage may involve meetings, surveys, or user research to better understand the needs and constraints.
+> **Team note:** At this stage, gather requirements from stakeholders. These could be product managers, customers, business analysts, or other relevant parties. Understand why the problem is important to them, what their needs are, and how solving the problem would add value. This stage may involve meetings, surveys, or user research to better understand the needs and constraints.
 
 ## Step 2 - Problem Definition (What)
 
