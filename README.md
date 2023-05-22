@@ -50,5 +50,14 @@ After testing and refining the initial draft, the solution is optimized and fina
 
 Finally, the solution is tested with various test cases to ensure its correctness and efficiency.
 
+In the case of testing it is very good to have clear names on testing scenario for everyone to understand the intentions. 
+
+```python 
+competitions = [["A", "B"], ["B", "C"], ["C", "A"]]
+results = [1, 1, 1]
+assert tournamentWinner(competitions, results) == "B"
+
+```
+
 
 
